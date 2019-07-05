@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lock Combinations</string>
+    <string name="button_forgot">Forgot combination?</string>
+    <string name="button_add">+ new</string>
+    <string name="title_forgot">Forgot your combination?</string>
+    <string name="title_add">Add new combination</string>
+    <string name="subtext_add">Enter the three numbers to a new combination lock code. If the lock exists, it will still be brought to top of the list (most-recently added).</string>
+    <string name="subtext_forgot">It happens. If you vaguely remember a number or two from your lock combination, this dialog will search through all your previously stored lock combinations and provide some possible patterns for you to try.\n\nEnter up to three numbers and click OK.</string>
+    <string name="button_search">Search Combinations</string>
+    <string name="button_confirmadd">Confirm</string>
+    <string name="status_all">Displaying all combinations</string>
+    <string name="about">LockCombinations is a tool that I will actually use from my day-to-day life at UCI. When I go to the ARC, I always borrow a lock from the desk to secure my belongings while I\'m exercising. These locks come with a small slip of paper with a three-digit combination to unlock it. I prefer not to carry this paper around with me, so I tend to write down the number somewhere in my phone and check it later when I need to (leaving the passcode-paper inside the locker itself). LockCombinations is a dedicated space for storing these passcodes.\n\nHowever, there have been times where I lock the paper in the locker, and forget to write down the code. In these cases, I often happen to remember one or two numbers from the combination. This app allows me to input the numbers I remember, and it will bring up suggestions from previously entered locks that contain the remembered numbers. Since the ARC\'s locks are borrowed and returned, there is a good chance that the locks I forget are among the ones that I have used before.\n\nHowever, using an web-based database like Firebase (and public) is probably not the best idea in terms of security and practicality. Locks added to LockCombinations will be public and available for everyone who uses the app to see. Locks will be deleted from the online database as well. It is simply for demonstration (connecting to Firebase, writing to Firebase, deleting from Firebase).</string>
+    <string name="credit">by Justin Wei (91618787), ICS45J Project 5</string>
+    <string name="button_about">About</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1015775282157",
+    "firebase_url": "https://lockcombinations.firebaseio.com",
+    "project_id": "lockcombinations",
+    "storage_bucket": "lockcombinations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015775282157:android:0c3172fd35b140a1",
+        "android_client_info": {
+          "package_name": "com.example.justin.lockcombinations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015775282157-6l6v9ot8uea591k21741gt7u4hm78bq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP-TNJC0gmxnoU490lLcWxKPyKQtwBnG8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
